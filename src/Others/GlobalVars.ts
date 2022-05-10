@@ -36,7 +36,7 @@ export class GlobalVars {
     ]
 
     static skills: Array<TitledListItemInterface> = [
-                {
+        {
             text: "Primary Skills",
             arr: [
                 {
