@@ -67,7 +67,7 @@ export class GlobalVars {
             arr: [
                 {
                     title: 'NIST SP 800-115',
-                    logo: 'https://findvectorlogo.com/national-institute-of-standards-and-technology-nist-vector-logo-svg'
+                    logo: 'https://findvectorlogo.com/wp-content/uploads/2019/10/national-institute-of-standards-and-technology-nist-vector-logo.png'
                 },
                 {
                     title: 'NodeJS',
