@@ -36,34 +36,10 @@ export class GlobalVars {
     ]
 
     static skills: Array<TitledListItemInterface> = [
-        {
-            text: "Primary Skills",
-            arr: [
-                {
-                    title: 'Red Team Assessment'
-                    logo: 'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'
-                },
-                {
-                    title: 'Web Application Security Assessment'
-                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
-                },
-                {
-                    title: 'API Security Assessment'
-                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
-                },
-                {
-                    title: 'Active Directory Security Assessment'
-                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
-                },
-                {
-                    title: 'Azure Sentinal L1 analyst'
-                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
-                },
-            ]
-        },
+
 
         {
-            text: "Programming/Markup Languages",
+            text: "Programming",
             arr: [
                 {
                     title: 'C++',
