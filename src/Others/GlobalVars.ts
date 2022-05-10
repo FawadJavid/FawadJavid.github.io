@@ -63,7 +63,7 @@ export class GlobalVars {
             ]
         },
         {
-            text: "Libraries/Frameworks",
+            text: "Frameworks",
             arr: [
                 {
                     title: 'NIST SP 800-115',
@@ -97,6 +97,12 @@ export class GlobalVars {
                     title: 'Urdu',
                     desc: "Conversational",
                     logo: 'https://www.flaticon.com/premium-icon/icons/svg/3097/3097115.svg',
+                },
+
+                {
+                    title: 'Pashto',
+                    desc: "Conversational",
+                    logo: 'https://freesvg.org/img/Cyrillic-R.png',
                 },
             ]
         },
