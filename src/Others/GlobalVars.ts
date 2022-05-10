@@ -13,7 +13,7 @@ export class GlobalVars {
     ]
     static myName = 'Fawad Javid'
     static myOccupation = 'Penetration Tester / Red Teamer'
-    static myDetails = 'Hello, I am Fawad Javid. I am a Penetration Tester and Red Teamer working as part of the MSSP team for the past 2 years at Systems Ltd. Part Time Bug Bounty Hunter and Cyber security researcher. I have helped many companies secure themselves as a freelancer. I m having experience in Red Teaming, Web Application Security, Mobile Application Security, API Security, Source Code Analysis, Vulnerability Assessment and Penetration Testing and excellent proficiency in some of the best tools like IBM AppScan, Burpsuit, Postman, SoapUI, multiple Kali OS tools and custom scripts.
+    static myDetails = 'Hello, I am Fawad Javid. I am a Penetration Tester and Red Teamer working as part of the MSSP team for the past 2 years at Systems Ltd. Part Time Bug Bounty Hunter and Cyber security researcher. I have helped many companies secure themselves as a freelancer. I m having experience in Red Teaming, Web Application Security, Mobile Application Security, API Security, Source Code Analysis, Vulnerability Assessment and Penetration Testing and excellent proficiency in some of the best tools like IBM AppScan, Burpsuit, Postman, SoapUI, multiple Kali OS tools and custom scripts.'
     static myLeftAvatarImage = null
     static myRightAvatarImage = null
 
