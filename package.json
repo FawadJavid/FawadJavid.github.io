@@ -20,7 +20,7 @@
     "react-color": "^2.19.3",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^4.0.3",
     "typescript": "^4.2.4",
     "web-vitals": "^1.1.2"
   },
@@ -53,5 +53,17 @@
   },
   "devDependencies": {
     "serve": "^11.3.2"
-  }
+  },
+  "description": "![p32929](https://user-images.githubusercontent.com/6418354/108698254-2256ee80-752e-11eb-8767-aeb5a4f86536.gif)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FawadJavid/FawadJavid.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FawadJavid/FawadJavid.github.io/issues"
+  },
+  "homepage": "https://github.com/FawadJavid/FawadJavid.github.io#readme"
 }
