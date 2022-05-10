@@ -110,117 +110,32 @@ export class GlobalVars {
             text: "Others",
             arr: [
                 {
-                    title: 'Git',
+                    title: 'Red Team Assessment'
                     logo: 'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'
                 },
                 {
-                    title: 'GitHub',
+                    title: 'Web Application Security Assessment
                     logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
                 },
                 {
-                    title: 'GitLab',
-                    logo: 'https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg'
+                    title: 'API Security Assessment'
+                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
                 },
                 {
-                    title: 'Arduino',
-                    logo: 'https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg'
+                    title: 'Active Directory Security Assessment'
+                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
                 },
                 {
-                    title: 'IntelliJ IDEA',
-                    logo: 'https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png'
+                    title: 'Azure Sentinal L1 analyst'
+                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
                 },
-                {
-                    title: 'Webstorm',
-                    logo: 'https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg'
-                },
-                {
-                    title: 'VS Code',
-                    logo: 'https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg'
-                },
-                {
-                    title: 'Automation',
-                    logo: 'https://image.flaticon.com/icons/svg/1035/1035688.svg'
-                },
-                {
-                    title: 'Gradle',
-                    logo: 'https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg'
-                },
-                {
-                    title: 'Apache',
-                    logo: 'https://www.vectorlogo.zone/logos/apache/apache-ar21.svg'
-                },
-                {
-                    title: 'Asana',
-                    logo: 'https://www.vectorlogo.zone/logos/asana/asana-ar21.svg'
-                },
-                {
-                    title: 'AWS',
-                    logo: 'https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg'
-                },
-                {
-                    title: 'Expo',
-                    logo: 'https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg'
-                },
-                {
-                    title: 'Figma',
-                    logo: 'https://www.vectorlogo.zone/logos/figma/figma-icon.svg'
-                },
-                {
-                    title: 'Heroku',
-                    logo: 'https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg'
-                },
-                {
-                    title: 'NgInx',
-                    logo: 'https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg'
-                },
-                {
-                    title: 'Yarn',
-                    logo: 'https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg'
-                },
-                {
-                    title: 'Facebook SDKs',
-                    logo: 'https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg'
-                },
-                {
-                    title: 'Google SDKs',
-                    logo: 'https://www.vectorlogo.zone/logos/google/google-icon.svg'
-                },
-                {
-                    title: 'Deployd',
-                    logo: 'https://deployd.com/img/bucket/modular.png'
-                },
-                {
-                    title: 'npm',
-                    logo: 'https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg'
-                },
-                {
-                    title: 'Greasemonkey',
-                    logo: 'https://addons.cdn.mozilla.net/user-media/addon_icons/0/748-64.png?modified=1531822767'
-                },
-                {
-                    title: 'Tampermonkey',
-                    logo: 'https://addons.cdn.mozilla.net/user-media/addon_icons/683/683490-64.png?modified=1565719090'
-                },
-                {
-                    title: 'Linux',
-                    logo: 'https://www.freepnglogos.com/uploads/linux-png/file-icons-flat-linux-svg-wikimedia-commons-6.png'
-                },
-                {
-                    title: 'Adobe Photoshop',
-                    logo: 'https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg'
-                },
-                {
-                    title: 'Netify',
-                    logo: 'https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg'
-                },
-
             ]
         },
     ]
 
     static projects: Array<TitledListItemInterface> = [
         {
-            text: "Android Apps",
+            text: "University Projects"
             arr: [
                 {
                     title: 'Desplash',
@@ -237,7 +152,7 @@ export class GlobalVars {
             ]
         },
         {
-            text: "WebApps",
+            text: "Personal Scripts"
             arr: [
                 {
                     title: 'IndecisionApp',
@@ -248,114 +163,8 @@ export class GlobalVars {
 
             ]
         },
-        {
-            text: "Android Libraries",
-            arr: [
-                {
-                    title: 'Android-Receivers-Library',
-                    logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg',
-                    desc: 'A library for simpler BroadcastReceiver implementations',
-                    link: 'https://github.com/p32929/Android-Receivers-Library'
-                },
-
-            ]
-        },
-        {
-            text: "Desktop App/Scripts",
-            arr: [
-                {
-                    title: 'MoodyLauncher',
-                    logo: 'https://image.flaticon.com/icons/svg/262/262551.svg',
-                    desc: 'A simple App Launcher Script that runs a list of apps depending on the users mood',
-                    link: 'https://github.com/p32929/MoodyLauncher'
-                },
-            ]
-        },
-        {
-            text: "Others",
-            arr: [
-                {
-                    title: 'CGPA_Calculator',
-                    logo: WebImages.giftIcon,
-                    desc: 'CGPA Calculator made using C',
-                    link: 'https://github.com/p32929/CGPA_Calculator'
-                },
-                {
-                    title: 'PersonalDiary',
-                    logo: WebImages.giftIcon,
-                    desc: 'A personal diary writer created using C',
-                    link: 'https://github.com/p32929/PersonalDiary'
-                },
-                {
-                    title: 'PaGeHe',
-                    logo: WebImages.giftIcon,
-                    desc: 'Password generators created using C++',
-                    link: 'https://github.com/p32929/PaGeHe'
-                },
-                {
-                    title: 'MathBlitz',
-                    logo: WebImages.giftIcon,
-                    desc: 'Simple math game created using C',
-                    link: 'https://github.com/p32929/MathBlitz'
-                },
-                {
-                    title: 'PaGeHa',
-                    logo: WebImages.giftIcon,
-                    desc: 'Password generator created using C',
-                    link: 'https://github.com/p32929/PaGeHa'
-                },
-                {
-                    title: 'TicTacToe',
-                    logo: WebImages.giftIcon,
-                    desc: 'A TicTacToe game made using C ',
-                    link: 'https://github.com/p32929/TicTacToe'
-                },
-                {
-                    title: 'Server_up_down_checker_and_notifier',
-                    logo: WebImages.giftIcon,
-                    desc: 'Server up-down checker created using python',
-                    link: 'https://github.com/p32929/MyPython3Scripts/blob/master/Server_up_down_checker_and_notifier.py'
-                },
-                {
-                    title: '.gitignore',
-                    logo: WebImages.giftIcon,
-                    desc: 'A collection of gitignore files that I use',
-                    link: 'https://github.com/p32929/.gitignore'
-                },
-                {
-                    title: 'flutter_state_management_test',
-                    logo: WebImages.giftIcon,
-                    desc: 'A state management demo for Flutter',
-                    link: 'https://github.com/p32929/flutter_state_management_test'
-                },
-                {
-                    title: 'ReduxCounter',
-                    logo: WebImages.giftIcon,
-                    desc: 'A demo for ReactJS and Redux',
-                    link: 'https://github.com/p32929/ReduxCounter'
-                },
-                {
-                    title: 'ReduxCounter',
-                    logo: WebImages.giftIcon,
-                    desc: 'A demo for ReactJS state management libraries',
-                    link: 'https://github.com/p32929/react-state-management'
-                },
-                {
-                    title: 'YandexDirectLinkGenerator',
-                    logo: WebImages.giftIcon,
-                    desc: 'Yandex Disk Direct Link Generator - BATCH',
-                    link: 'https://github.com/p32929/YandexDirectLinkGenerator'
-                },
-                {
-                    title: 'UVA_Solutions',
-                    logo: WebImages.giftIcon,
-                    desc: 'Some UVA solutions',
-                    link: 'https://github.com/p32929/UVA_Solutions'
-                },
-            ]
-        }
-    ]
-
+       
+       
     static contacts: Array<TitledListItemInterface> = [
         {
             text: "Contact me",
