@@ -32,10 +32,6 @@ export class GlobalVars {
         {
             svgPath: OurIcons.email,
             link: 'mailto:max.mustermann@example.com?body=My custom mail body"'
-        },
-        {
-            svgPath: OurIcons.facebookIcon,
-            link: '#'
         }
     ]
 
@@ -48,28 +44,12 @@ export class GlobalVars {
                     logo: 'https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png',
                 },
                 {
-                    title: 'Java',
-                    logo: 'https://www.vectorlogo.zone/logos/java/java-icon.svg',
-                },
-                {
                     title: 'Python',
                     logo: 'https://www.vectorlogo.zone/logos/python/python-icon.svg',
                 },
                 {
-                    title: 'JavaScript',
-                    logo: 'https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg',
-                },
-                {
                     title: 'SQL',
                     logo: 'https://www.svgrepo.com/show/255832/sql.svg',
-                },
-                {
-                    title: 'HTML',
-                    logo: 'https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg',
-                },
-                {
-                    title: 'CSS',
-                    logo: 'https://seeklogo.com/images/C/css3-logo-F1923C8D0E-seeklogo.com.png',
                 },
                 {
                     title: 'Bash/Shell/PowerShell',
@@ -78,22 +58,16 @@ export class GlobalVars {
                 {
                     title: 'PHP',
                     logo: 'https://www.vectorlogo.zone/logos/php/php-icon.svg',
-                },
-                {
-                    title: 'XML',
-                    logo: 'https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg'
                 }
                 
-
-
             ]
         },
         {
             text: "Libraries/Frameworks",
             arr: [
                 {
-                    title: 'Android App Development',
-                    logo: 'https://www.vectorlogo.zone/logos/android/android-icon.svg'
+                    title: 'NIST SP 800-115',
+                    logo: 'https://findvectorlogo.com/national-institute-of-standards-and-technology-nist-vector-logo-svg'
                 },
                 {
                     title: 'NodeJS',
