@@ -67,11 +67,19 @@ export class GlobalVars {
             arr: [
                 {
                     title: 'NIST SP 800-115',
-                    logo: 'https://findvectorlogo.com/wp-content/uploads/2019/10/national-institute-of-standards-and-technology-nist-vector-logo.png'
+                    logo: 'https://www.vectorlogo.zone/logos/nist/nist-ar21.svg'
                 },
                 {
-                    title: 'NodeJS',
-                    logo: 'https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'
+                    title: 'Open Source Security Testing Methodology Manual (OSSTMM)',
+                    logo: 'https://www.infopulse.com/uploads/media/osstmm.svg'
+                },
+                {
+                    title: 'Open Web Application Security Project (OWASP)',
+                    logo: 'https://cdn.freelogovectors.net/svg09/owasp_logo-freelogovectors.net_.svg'
+                },
+                {
+                    title: 'Penetration Testing Execution Standard (PTES)',
+                    logo: 'https://www.eyrasecurity.com/wp-content/uploads/2021/04/PTES.png'
                 },
 
             ]
