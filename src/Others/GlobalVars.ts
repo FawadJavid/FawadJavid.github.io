@@ -30,8 +30,8 @@ export class GlobalVars {
             link: 'https://pk.linkedin.com/in/fawad-javid-b25474180'
         },
         {
-            svgPath: OurIcons.skypeIcon,
-            link: '#'
+            svgPath: OurIcons.email,
+            link: 'mailto:max.mustermann@example.com?body=My custom mail body"'
         },
         {
             svgPath: OurIcons.facebookIcon,
