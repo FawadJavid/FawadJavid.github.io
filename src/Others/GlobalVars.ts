@@ -18,7 +18,7 @@ export class GlobalVars {
     static myRightAvatarImage = null
 
     static routes: Array<string> = [
-        "Whoami",
+        "About",
         "Skills",
         "Projects",
         "Contact",
