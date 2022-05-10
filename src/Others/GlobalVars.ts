@@ -26,7 +26,7 @@ export class GlobalVars {
 
     static bottomLinks: Array<NavBottomLinksInterface> = [
         {
-            svgPath: OurIcons.linkdenin,
+            svgPath: OurIcons.linkdein,
             link: 'https://pk.linkedin.com/in/fawad-javid-b25474180'
         },
         {
