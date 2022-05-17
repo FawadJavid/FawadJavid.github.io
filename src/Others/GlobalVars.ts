@@ -45,19 +45,23 @@ export class GlobalVars {
                 },
                 {
                     title: 'Web Application Security Assessment',
-                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
+                    logo: 'https://cdn.dribbble.com/users/1787323/screenshots/14740614/media/f959b318f4744a500919745d3f513f6c.png?compress=1&resize=1000x750&vertical=top'
                 },
                 {
                     title: 'API Security Assessment',
-                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
+                    logo: 'https://cdn-icons-png.flaticon.com/512/2164/2164832.png'
                 },
                 {
-                    title: 'Active Directory Security Assessment',
-                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
+                    title: 'Mobile Application Security Assessment',
+                    logo: 'https://cdn-icons-png.flaticon.com/512/2097/2097276.png'
+                },
+                {
+                    title: 'Network Security Assessment',
+                    logo: 'https://cdn-icons-png.flaticon.com/512/3598/3598209.png'
                 },
                 {
                     title: 'Azure Sentinal L1 analyst',
-                    logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
+                    logo: 'https://cdn-icons-png.flaticon.com/512/873/873143.png'
                 },
             ]
         },
