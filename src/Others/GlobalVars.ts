@@ -41,7 +41,7 @@ export class GlobalVars {
             arr: [
                 {
                     title: 'Red Team Assessment',
-                    logo: 'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'
+                    logo: 'https://images-platform.99static.com/8n-YcxzKG1kxSjF2yn1NsIDIgUE=/34x0:959x925/500x500/top/smart/99designs-contests-attachments/89/89741/attachment_89741094'
                 },
                 {
                     title: 'Web Application Security Assessment',
