@@ -40,23 +40,23 @@ export class GlobalVars {
             text: "Primary Skills",
             arr: [
                 {
-                    title: 'Red Team Assessment'
+                    title: 'Red Team Assessment',
                     logo: 'https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'
                 },
                 {
-                    title: 'Web Application Security Assessment'
+                    title: 'Web Application Security Assessment',
                     logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
                 },
                 {
-                    title: 'API Security Assessment'
+                    title: 'API Security Assessment',
                     logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
                 },
                 {
-                    title: 'Active Directory Security Assessment'
+                    title: 'Active Directory Security Assessment',
                     logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
                 },
                 {
-                    title: 'Azure Sentinal L1 analyst'
+                    title: 'Azure Sentinal L1 analyst',
                     logo: 'https://www.vectorlogo.zone/logos/github/github-icon.svg'
                 },
             ]
@@ -136,7 +136,7 @@ export class GlobalVars {
 
     static projects: Array<TitledListItemInterface> = [
         {
-            text: "University Projects"
+            text: "University Projects",
             arr: [
                 {
                     title: 'Desplash',
@@ -153,7 +153,7 @@ export class GlobalVars {
             ]
         },
         {
-            text: "Personal Scripts"
+            text: "Personal Scripts",
             arr: [
                 {
                     title: 'IndecisionApp',
