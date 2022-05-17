@@ -143,29 +143,11 @@ export class GlobalVars {
             text: "University Projects",
             arr: [
                 {
-                    title: 'Desplash',
-                    logo: 'https://lh3.googleusercontent.com/ILrto9KguXlr-clbhYKUonpnHszgNp_N5Qvc8_u9QaM71oaqNKcYql2sV3sqZ7nqzsc=s180',
-                    desc: 'Automatic Free High Quality Wallpapers powered by Unsplash.com',
-                    link: 'https://apkpure.com/desplash-beautiful-automatic-unsplash-wallpapers/p32929.desplash'
-                },
-                {
-                    title: 'BirthdayBot',
-                    logo: 'https://image.flaticon.com/icons/svg/415/415587.svg',
-                    desc: 'Birthday wishing apps, made for individual people...',
+                    title: '...',
+                    logo: '',
+                    desc: '',
                     link: ''
                 },
-            ]
-        },
-        {
-            text: "Personal Scripts",
-            arr: [
-                {
-                    title: 'IndecisionApp',
-                    logo: 'https://image.flaticon.com/icons/svg/2762/2762575.svg',
-                    desc: 'My first ReactJS app',
-                    link: 'https://p32929.github.io/IndecisionApp'
-                },
-
             ]
         },
    ]    
